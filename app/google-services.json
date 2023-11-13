@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "314657440512",
+    "firebase_url": "https://mychat-b42c4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-b42c4",
+    "storage_bucket": "mychat-b42c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314657440512:android:309a06625a0eb6df4f29e5",
+        "android_client_info": {
+          "package_name": "com.stepanov.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXncD9g7vJWV3j1cdwWxJpiHPJBtIoG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
