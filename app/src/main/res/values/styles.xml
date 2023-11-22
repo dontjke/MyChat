@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyActionBarStyle" parent="Base.Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/whatsapp_green_light</item>
+    </style>
+</resources>
