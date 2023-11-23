@@ -3,4 +3,6 @@
     <string name="send">Отправить</string>
     <string name="message">Message</string>
     <string name="sign_out">Sign Out</string>
+    <string name="text_view">TextView</string>
+    <string name="blabla">blabla</string>
 </resources>

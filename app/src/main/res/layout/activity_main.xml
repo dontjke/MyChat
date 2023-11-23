@@ -7,15 +7,7 @@
     tools:context=".MainActivity">
 
 
-    <TextView
-        android:id="@+id/recyclerView"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/textMessage"
-        app:layout_constraintEnd_toEndOf="@+id/textMessage"
-        app:layout_constraintStart_toStartOf="@+id/textMessage"
-        app:layout_constraintTop_toTopOf="parent" />
+
 
     <EditText
         android:id="@+id/textMessage"
@@ -42,6 +34,15 @@
         app:layout_constraintStart_toStartOf="parent">
 
     </com.google.android.material.button.MaterialButton>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/textMessage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
